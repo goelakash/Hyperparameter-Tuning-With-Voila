@@ -1,4 +1,4 @@
-## Visualize Hyperparameter tuning for a neural-net
+## Experiment with Hyperparameter tuning for a neural-net
 
 This is a project to demonstrate how tuning different hyperparameters of a neural-network lead to a change in accuracy and time-taken. This uses the widgets library of IPython for Jupyter notebooks, and uses Voila to synthesize it into a static web-site, free of code.
 
