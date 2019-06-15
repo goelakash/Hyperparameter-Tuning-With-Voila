@@ -7,7 +7,7 @@ The neural-net example here takes the vectorized MNIST dataset as input and pass
 Using Voíla, we synthesize the notebook into a static web-page with active widgets, and thus get a web-page where we can play around with the inputs and get the desired output.
 
 ### Frameworks:
-[Pytorch](https://github.com/pytorch/pytorch)
+[Pytorch](https://github.com/pytorch/pytorch)  
 [Voila](https://github.com/QuantStack/voila)
 
 ### Dataset:
@@ -16,4 +16,4 @@ MNIST ([Torchvision](https://pytorch.org/docs/stable/_modules/torchvision/datase
 ### Demo:
 Here's what the dashboard finally looks like:  
   
-![alt text](https://github.com/goelakash/Hyperparameter-Tuning-With-Voila/blob/master/images/dashboard.png)
+![alt text](https://raw.githubusercontent.com/goelakash/Hyperparameter-Tuning-With-Voila/master/images/dashboard.png)
