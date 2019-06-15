@@ -6,14 +6,17 @@ The neural-net example here takes the vectorized MNIST dataset as input and pass
 
 Using Voíla, we synthesize the notebook into a static web-page with active widgets, and thus get a web-page where we can play around with the inputs and get the desired output.
 
-### Frameworks:
-[Pytorch](https://github.com/pytorch/pytorch)  
-[Voila](https://github.com/QuantStack/voila)
+## Get Started:
+To get this project working as intented, do the following:  
+- Install torch - https://github.com/pytorch/pytorch  
+- Install Voila - https://github.com/QuantStack/voila  
+- Clone this repo - `git clone https://github.com/goelakash/Hyperparameter-Tuning-With-Voila`  
+- `cd` in the local clone of the repo and run
+```
+voila MNIST_widgets.ipynb
+```
 
-### Dataset:
-MNIST ([Torchvision](https://pytorch.org/docs/stable/_modules/torchvision/datasets/mnist.html))
-
-### Demo:
+## Demo:
 Here's what the dashboard finally looks like:  
   
 ![alt text](https://raw.githubusercontent.com/goelakash/Hyperparameter-Tuning-With-Voila/master/images/dashboard.png)
